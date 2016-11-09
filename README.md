@@ -1,3 +1,4 @@
 # hello-world
-Erste Schritte in github
-Und eine erste Änderung
+Erstes Schreiten in github
+die zweite Änderung steht vor der ersten, die die jetzt dritte heisst
+Und eine dritte Änderung
